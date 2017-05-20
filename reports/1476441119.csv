@@ -1,0 +1,104 @@
+
+ICICI TID NO, HDFC TID NO, MID NO, SERIAL NO,LOCATION,DEPARTMENT,AMEX NO, SIM CARD, TERMINAL TYPE,VENDOR, COMPANY, STATUS, REMARKS, IS AMEX
+40936175,,,13167CT20486358,Ticketing counter,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936176,,,13164CT20467951,Ticketing counter,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936174,,,13165CT20475626,Ticketing counter,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936201,,,13151CT20402602,Ticketing counter,Ticketing,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,AMEX
+62564131,,,13274CT20954100,Ticketing counter,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564109,,,13274CT20954065,Ticketing counter,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564110,,,13274CT20950026,Ticketing counter,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936195,,,13165CT20476051,Ticketing counter,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,AMEX
+40936179,,,13164CT20468045,Ticketing counter (upgrade),Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936198,,,13110CT20222699,Ticketing counter (upgrade),Ticketing,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564116,,,13269CT20928196,Return Ticketing counter ,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936172,,,1315CT20402539,Return Ticketing counter,Ticketing,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936184,,,12086WL60495608,Ticketing counter,Ticketing,,Vodafone,GPRS Terminal,Pine Labs,Theme Park,Not Working,Charging port is faulty. Call logged at Plutus Support,NA
+40936187,,,13335WL21158292,Ticketing counter,Ticketing,,Airtel,GPRS Terminal,Pine Labs,Theme Park,Working,,NA
+40936190,,,12090WL60505725,ReturnTicketing counter,Ticketing,,Vodafone,GPRS Terminal,Pine Labs,Theme Park,Working,,NA
+40936186,,,12090WL60505798,Return Ticketing counter  (Rajasaurus),Ticketing,,Vodafone,GPRS Terminal,Pine Labs,Theme Park,Working,,NA
+62500706,,,15085WL81110771,Ticketing counter,Ticketing,,Vodafone,GPRS Terminal,ICICI,Theme Park,Working,,NA
+62564134,,,14362CT23182695,Locker Counter POS1,Ticketing,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564111,,,13274CT20953535,Locker Counter POS2,Ticketing,,Vodafone,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564116,,,13269CT20928196,Locker Counter POS3,Ticketing,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564118,,,13288CT21016479,Locker Counter POS4,Ticketing,,Vodafone,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564123,,,13287CT21013565,Locker Counter POS5,Ticketing,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564117,,,13255CT20861104,Locker Counter POS6,Ticketing,,Vodafone,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564133,,,13274CT20954216,Locker Counter POS7,Ticketing,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564136,,,13274CT20954066,Locker Counter POS8,Ticketing,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+40940255,,,13274CT20951286,Mumbai chaat counter,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936158,,,13165CT20476765,Italian counter,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,AMEX
+40936182,,,13274CT20954711,Indian counter,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564114,,,13255CT20861114,Arrmada Restaurent,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564119,,,13164CT20467955,ZeZe Restaurent,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936164,,,15165CT23824416,ZeZe Restaurent,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936170,,,13164CT20467760,ZeZe Restaurent (BAR),FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936165,,,13125CT20730624,Imagica capital,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40940264,,,14325CT22948282,Imagica capital,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936194,,,13166CT20478347,Red Bonnet,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564143,,,14298CT22812989,Red Bonnet,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40940270,,,14336CT23021618,Red Bonnet,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564114,,,13255CT20861114,Arrmada Restaurent,FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936168,,,14162CT22065180,Arrival plaza (Food kiosk),FnB,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936189,,,12090WL60505996,Red Bonnet,FnB,,Vodafone,GPRS Terminal,Pine Labs,Theme Park,Working,,NA
+62500707,,,14020WL21357443,ZeZe Restaurent,FnB,,Vodafone,GPRS Terminal,ICICI,Theme Park,Working,,NA
+62500705,,,13337WL21168170,Jain counter,FnB,,Vodafone,GPRS Terminal,ICICI,Theme Park,Working,,NA
+62500699,,,13337WL21169193,Circus Restaurent,FnB,,Vodafone,GPRS Terminal,ICICI,Theme Park,Working,,NA
+E6140004,,,13233CT20775818,SNOW PARK (F&B),FnB,,Vodafone,GPRS Terminal,INNOVITI,Theme Park,Working,,NA
+62564126,,,13274CT20955171,Cones,FnB,,Vodafone,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564135,,,13274CT20954312,Ammos POS1,FnB,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564137,,,13274CT20954565,Ammos POS2,FnB,,Vodafone,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564119,,,14008CT21397433,Ammos POS3,FnB,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+40936156,,,13166CT20479047,Ammos POS4,FnB,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,AMEX
+62564132,,,13274CT20954297,Ammos POS5,FnB,,Vodafone,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564125,,,13274CT20954372,Salty,FnB,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564083,,,13274CT20955017,Sunbeatz POS1,FnB,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564125,,,14007CT21396217,SunBeatz bar1,FnB,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564129,,,13274CT20954237,Redbonnet POS1,FnB,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564128,,,13269CT20928237,Redbonnet POS2,FnB,,Vodafone,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564127,,,14362CT23180327,Ammos bar 2,FnB,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564140,,,14064WL21484714,SunBeatz bar2,FnB,,NA,GPRS Terminal,Pine Labs,Water Park,Working,,NA
+62564139,,,14042WL21400669,SunBeatz bar3-Ammos,FnB,,NA,GPRS Terminal,Pine Labs,Water Park,Working,,NA
+62564124,,,13274CT20954242,CIRCUS (Retail kiosk1),Retail,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40940261,,,13165CT20475956,KIOSK2 (KidsZone),Retail,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40940260,,,13165CT20475643,KIOSK3 (Red Bonnet),Retail,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40940262,,,13165CT20475917,KIOSK4 (Rajasaurus),Retail,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564144,,,15165CT23824242,Main Retail Store,Retail,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+72056681,,,14292CT22769480,Main Retail Store,Retail,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,AMEX
+40940254,,,14305CT22852518,CANDY (SUGARBUZZ),Retail,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,AMEX
+62564115,,,14298CT22813470,CANDY (DIGI-photo),Retail,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936163,,,12230CT71710497,WOG Retail Store,Retail,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936192,,,13152CT20407107,I FOR INDIA Retail Store,Retail,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,AMEX
+62564146,,,14298CT22812809,Exit Nitro Store,Retail,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+40936160,,,13201CT20640275,GOLD RUSH (Digi-photo),Retail,,Vodafone,EDC Terminal,Pine Labs,Theme Park,Working,,AMEX
+40936193,,,13165CT20476220,Retail store (Novotel),Retail,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+62564127,,,1436CT23180327,KIOSK5 (Salimgarh),Retail,,Airtel,EDC Terminal,Pine Labs,Theme Park,Working,,NA
+88005989,,,12086WL60495928,Retail web online,Retail,,Vodafone,GPRS Terminal,Pine Labs,Theme Park,Working,,NA
+62500701,,,13337WL21168387,Main Retail Store,Retail,,Vodafone,GPRS Terminal,ICICI,Theme Park,Working,,NA
+62500708,,,14012WL21326277,Deep space DIGI-photo,Retail,,Vodafone,GPRS Terminal,ICICI,Theme Park,Working,,NA
+E6140002,,,13288CT21017906,Alibaba,Retail,,Vodafone,GPRS Terminal,INNOVITI,Theme Park,Working,,NA
+62564120,,,13274CT20954365,Counter POS9 (MRS),Retail,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564142,,,14298CT22812690,D-Block Retail,Retail,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+40940270,,,13166CT20478960,DIGIphoto (MRS),Retail,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62564121,,,13287CT21014254,WAVE POOL,Retail,,Airtel,EDC Terminal,Pine Labs,Water Park,Working,,NA
+62500707,,,140220WL21372117,MAIN RETAIL STORE,Retail,,NA,GPRS Terminal,ICICI,Water Park,Working,,NA
+40940256,,,13164CT20468467,SNOW RETAIL  (Master),Retail,,Vodafone,EDC Terminal,Pine Labs,Snow Park,Working,,NA
+40940257,,,13002CT2042506,SNOW RETAIL  (Counter),Retail,,Vodafone,EDC Terminal,Pine Labs,Snow Park,Working,,NA
+E6140001,,,13274CT20954502,admin,IT,,Vodafone,GPRS Terminal,INNOVITI,Theme Park,Working,,NA
+E6140005,,,12251CT71756859,admin,IT,,Vodafone,GPRS Terminal,INNOVITI,Theme Park,Working,,NA
+40943990,,,13270WL20924912,Back Office,IT,,NA,GPRS Terminal,Pine Labs,Back Office,Working,,NA
+40936202,,,13165CT20475576,DIGIPHOTO SNOW,IT,,Vodafone,EDC Terminal,Pine Labs,Snow Park,Working,,NA
+40940256,,,13164CT20468467,BACKOFFICE,IT,,NA,EDC Terminal,Pine Labs,Back Office,Working,,NA
+40936162,,,14292CT22769480,BACKOFFICE,IT,,NA,EDC Terminal,Pine Labs,Back Office,Working,,NA
+40936192,,,13152CT20407107,BACKOFFICE,IT,,NA,EDC Terminal,Pine Labs,Back Office,Working,,NA
+40940257,,,13164CT20467858,BACKOFFICE,IT,,NA,EDC Terminal,Pine Labs,Back Office,Working,,NA
+40936166,,,13199CT20630609,BACKOFFICE,IT,,NA,EDC Terminal,Pine Labs,Back Office,Working,,NA
+62564145,,,14298CT22812945,BACKOFFICE,IT,,NA,EDC Terminal,Pine Labs,Back Office,Working,,NA
+62564127,,,14362CT23180327,SPARE IN Waterpark,IT,,NA,EDC Terminal,Pine Labs,Back Office,Working,,NA
+40943990,,,13270WL20924912,BACKOFFICE ,IT,,Airtel,GPRS Terminal,Pine Labs,Back Office,Working,,NA
+88006009,,,12084WL60492402,BACKOFFICE,IT,,NA,GPRS Terminal,Pine Labs,Back Office,Working,,NA
+72056681,,,14080WL21543556,BACKOFFICE,IT,,NA,GPRS Terminal,Pine Labs,Back Office,Working,,AMEX
+72060466,,,15077WL81100284,BACKOFFICE,IT,,NA,GPRS Terminal,Pine Labs,Back Office,Working,,AMEX
+62500700,,,15276WL23584222,BACKOFFICE ,IT,,Vodafone,GPRS Terminal,ICICI,Back Office,Working,,NA
+62500706,,,15085WL81110771,BACKOFFICE ,IT,,NA,GPRS Terminal,ICICI,Back Office,Working,,NA
+E6140003,,,13287CT21012672,Finance cashier,Accounts,,Vodafone,GPRS Terminal,INNOVITI,Theme Park,Working,,NA
+40936196,,,12086WL60495017,Dattaprasad (MARKETING),Marketing,,NA,GPRS Terminal,Pine Labs,Theme Park,Working,,AMEX
